@@ -1,0 +1,25 @@
+{
+  "name": "ng-stripe",
+  "version": "0.0.1",
+  "description": "Angular service and directives for handling payments with Stripe",
+  "homepage": "https://www.github.com/breaktag/ng-stripe",
+  "authors": [
+    "Ben Riley"
+  ],
+  "main": "dist/ng-stripe.js",
+  "keywords": [
+    "stripe",
+    "stripe.js",
+    "stripejs",
+    "ng-stripe",
+    "ngstripe",
+    "angular-stripe",
+    "angularStripe",
+    "stripe-angular",
+    "stripeAngular"
+  ],
+  "dependencies": {
+    "angular": "1.3.13",
+  },
+  "license": "MIT"
+}
